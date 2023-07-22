@@ -1,2 +1,2 @@
 # eat
-eat repo
+eat repo for git command demonstration
